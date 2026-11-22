@@ -4,3 +4,4 @@ build:
   framework: auto
 run:
   command: node bot.js
+port: 3000
